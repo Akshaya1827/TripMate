@@ -72,26 +72,6 @@ Instead of depending on multiple applications to organize a group trip, TripMate
 | API Testing | Postman |
 | Version Control | Git, GitHub |
 
-## Application Screenshots
-
-Add your actual application screenshots to `docs/screenshots/` and use the following image names.
-
-| Screen | Screenshot |
-|---|---|
-| Dashboard | `dashboard.png` |
-| Trip Details | `trip-details.png` |
-| Itinerary | `itinerary.png` |
-| Bookings | `bookings.png` |
-| Expenses | `expenses.png` |
-| Trip Chat | `chat.png` |
-| Gallery | `gallery.png` |
-
-Example:
-
-```md
-![TripMate Dashboard](docs/screenshots/dashboard.png)
-```
-
 ## System Architecture
 
 ```mermaid
